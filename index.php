@@ -55,7 +55,7 @@
         </section>
         <section class="contact" id="contact">
             <h2>Contact</h2>
-            <p><i class="fas fa-phone fa-lg"></i><span class="personal-data">420499405</span></p>
+            <p><i class="fas fa-phone fa-lg"></i><span class="personal-data">348246315</span></p>
             <p><i class="fas fa-envelope fa-lg"></i><?php
 echo esc_html( antispambot( 'marta.kwasniak@gmail.com' ) );
 ?></p>
